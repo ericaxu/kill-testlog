@@ -12,3 +12,5 @@ console.log(theVariableToLog);//t
 Any amount of whitespace will be acceptable, but whitespace between the slashes are not acceptable since with that it's no longer legal commentting in JavaScript.
 
 Change the string in `regexp` to clean logs for other languages.
+
+It works for Sublime Text 2.
