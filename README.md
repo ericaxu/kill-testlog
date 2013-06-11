@@ -14,7 +14,7 @@ Any amount of whitespace will be acceptable, but whitespace between the slashes 
 Change the string `regexp` to clean logs for other languages.
 
 ###Making it faster
-Save the provided `log.sublime-snippet` to `<Sublime folder>/Packages/JavaScript`, enable the plugin, and then add the following entry to your user key binding:
+Save the provided `log.sublime-snippet` to `<Sublime folder>/Packages/JavaScript`, enable the plugin, and then add the following entry to your user key binding: (substitute with your preferred key binding)
 ```
 {
   "keys": ["alt+c"],
